@@ -1,0 +1,92 @@
+{
+	"folders": [
+		{
+			"path": "getting-started-01-first-app"
+		},
+		{
+			"path": "basics-01-starting-project"
+		},
+		{
+			"path": "control-03-monster-killer-starting-project"
+		},
+		{
+			"path": "control-assignment-problem"
+		},
+		{
+			"path": "behind-scenes-04-starting-setup-2"
+		},
+		{
+			"path": "functions-01-starting-code"
+		},
+		{
+			"path": "functions-assignment-problem"
+		},
+		{
+			"path": "dom-02-basic-selection-code"
+		},
+		{
+			"path": "dom-assignment-start"
+		},
+		{
+			"path": "dom-03-dom-traversing"
+		},
+		{
+			"path": "dom-06-demo-project-setup"
+		},
+		{
+			"path": "arrays-01-starting-code"
+		},
+		{
+			"path": "arrays-assignment-problem"
+		},
+		{
+			"path": "objects-01-starting-project"
+		},
+		{
+			"path": "oop-01-starting-setup"
+		},
+		{
+			"path": "practice-oop-01-starting-setup"
+		},
+		{
+			"path": "oop-assignment-problem"
+		},
+		{
+			"path": "http-01-starting-setup"
+		},
+		{
+			"path": "async-01-starting-setup"
+		},
+		{
+			"path": "nums-strings-01-starting-setup"
+		},
+		{
+			"path": "adv-fn-01-starting-setup"
+		},
+		{
+			"path": "events-01-starting-setup"
+		},
+		{
+			"path": "prototypes-01-starting-setup"
+		},
+		{
+			"path": "behind-scenes-03-strict-mode"
+		},
+		{
+			"path": "lib-01-starting-setup"
+		},
+		{
+			"path": "storage-01-starting-setup"
+		},
+		{
+			"path": "storage-02-localstorage"
+		},
+	{
+			"path": "storage-03-cookies"
+		},
+		{
+			"path": "storage-04-indexeddb"
+		}
+	],
+	"settings": {}
+}
